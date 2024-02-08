@@ -3,6 +3,6 @@ FullStack Dev, using the following technologies:
 Front end:
  HTML5 , CSS3 , JAVASCRIPT , REACT, NEXT.JS
 Back end:
- NODE.JS, NEST.JS , UNIT TEST , JEST
+ JAVA, NODE.JS, NEST.JS , UNIT TEST , JEST
 DataBase:
  MongoDB , PostgreSQL
